@@ -1,0 +1,9 @@
+setup.py
+segunda_preentrega_cisneros/__init__.py
+segunda_preentrega_cisneros/clientes.py
+segunda_preentrega_cisneros/menu.py
+segunda_preentrega_cisneros/pedidos.py
+segunda_preentrega_cisneros.egg-info/PKG-INFO
+segunda_preentrega_cisneros.egg-info/SOURCES.txt
+segunda_preentrega_cisneros.egg-info/dependency_links.txt
+segunda_preentrega_cisneros.egg-info/top_level.txt
